@@ -6,35 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch_LC704",
+            "request": "launch",
+            "mainClass": "BinarySearch_LC704",
+            "projectName": "Hot-Pot_76128a76"
+        },
+        {
+            "type": "java",
+            "name": "InnerBinarySearch_LC704",
+            "request": "launch",
+            "mainClass": "InnerBinarySearch_LC704",
+            "projectName": "Hot-Pot_76128a76"
+        },
+        {
+            "type": "java",
             "name": "Demo1",
             "request": "launch",
             "mainClass": "Demo1",
-            "projectName": "Java_9c4050f0"
-        },
-        {
-            "type": "java",
-            "name": "Launch KMP",
-            "request": "launch",
-            "mainClass": "KMP",
-            "projectName": "Java_9c4050f0"
-        },
-        {
-            "type": "java",
-            "name": "Launch test",
-            "request": "launch",
-            "mainClass": "test",
-            "projectName": "Java_9c4050f0"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - suanfa",
-            "request": "launch",
-            "mainClass": "src.main.java.suanfa",
-            "cwd": "${workspaceFolder}",
-            "console": "integratedTerminal",
-            "encoding": "utf8",
-            "stopOnEntry": false,
-            "args": ""
+            "projectName": "Hot-Pot_76128a76"
         },
         {
             "type": "java",
