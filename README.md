@@ -1,2 +1,4 @@
 # Hot-Pot
-including examples solved by all kinds of languge
+I will updating the Java Code from this website.
+
+website:https://www.programmercarl.com/
