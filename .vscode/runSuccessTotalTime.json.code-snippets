@@ -13,8 +13,12 @@
 		"body": [
 			"/**",
 			"* Run Successful Total Time Field",
-			"* Your Time:",
-			"* 1: $1 ",
+			"Website: $1",
+			"* Your Time | Error Description",
+			"* 1: $2 ",
+			"* 2:  ",
+			"* 3:  ",
+			"* 4:  ",
 			"*/",
 		],
 		"description": "Run Successful Total Time Field"
