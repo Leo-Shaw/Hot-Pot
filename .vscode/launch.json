@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySquare_LC977",
+            "request": "launch",
+            "mainClass": "LC01_Array.ArraySquare_LC977",
+            "projectName": "Hot-Pot_76128a76"
+        },
+        {
+            "type": "java",
+            "name": "MoveElement_LC27",
+            "request": "launch",
+            "mainClass": "LC01_Array.MoveElement_LC27",
+            "projectName": "Hot-Pot_76128a76"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch_LC704",
             "request": "launch",
             "mainClass": "BinarySearch_LC704",

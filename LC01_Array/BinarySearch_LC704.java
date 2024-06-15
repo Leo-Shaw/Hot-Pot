@@ -1,3 +1,5 @@
+package LC01_Array;
+
 /**
 * Run Successful Total Time Field
 Website: https://leetcode.cn/problems/binary-search/
