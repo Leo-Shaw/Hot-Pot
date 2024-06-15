@@ -6,7 +6,6 @@ package LC01_Array;
  * [977] 有序数组的平方
  */
 
-// @lc code=start
 /**
 * Run Successful Total Time Field
 Website: https://leetcode.cn/problems/squares-of-a-sorted-array/description/
@@ -16,6 +15,8 @@ Website: https://leetcode.cn/problems/squares-of-a-sorted-array/description/
 * 3:  
 * 4:  
 */
+
+// @lc code=start
 class Solution {
     /*
      * 1、输入：递增数组

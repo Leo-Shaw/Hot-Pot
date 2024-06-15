@@ -6,16 +6,17 @@ package LC01_Array;
  * [704] 二分查找
  */
 
-// @lc code=start
 /**
-* Run Successful Total Time Field
-Website: https://leetcode.cn/problems/binary-search/
-* Your Time | Error Description
-* 1:  18:37-19:12  35min  right下表忘记减-1;  防溢出:l+(r-l)/2; l<=r
-* 2:  
-* 3:  
-* 4:  
+    * Run Successful Total Time Field
+    * Website: https://leetcode.cn/problems/binary-search/
+    * Your Time | Error Description
+    * 1:  18:37-19:12  35min  right下表忘记减-1;  防溢出:l+(r-l)/2; l<=r
+    * 2:  
+    * 3:  
+    * 4:  
 */
+
+// @lc code=start
 class Solution {
     public int search(int[] nums, int target) {
         int l=0,r=nums.length-1,mid=0;

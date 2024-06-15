@@ -6,7 +6,6 @@ package LC01_Array;
  * [27] 移除元素
  */
 
-// @lc code=start
 /**
 * Run Successful Total Time Field
 Website: https://leetcode.cn/problems/remove-element/description/
@@ -16,6 +15,8 @@ Website: https://leetcode.cn/problems/remove-element/description/
 * 3:  
 * 4:  
 */
+
+// @lc code=start
 class Solution {
     public int removeElement(int[] nums, int val) {
         int count=0;

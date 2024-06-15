@@ -5,17 +5,18 @@ package LC01_Array;
  * [209] 长度最小的子数组
  */
 
+ /**
+    * Run Successful Total Time Field
+    * Website: https://leetcode.cn/problems/minimum-size-subarray-sum/
+    * Your Time | Error Description
+    * 1:  直接背模板吧
+    * 2:  
+    * 3:  
+    * 4:  
+*/
+
 // @lc code=start
 
-/**
-* Run Successful Total Time Field
-Website: https://leetcode.cn/problems/minimum-size-subarray-sum/
-* Your Time | Error Description
-* 1:  直接背模板吧
-* 2:  
-* 3:  
-* 4:  
-*/
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int res = Integer.MAX_VALUE;
