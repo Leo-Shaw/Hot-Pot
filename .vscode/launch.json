@@ -6,44 +6,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "ShortestSubArray_LC209",
+            "name": "Main",
             "request": "launch",
-            "mainClass": "LC01_Array.ShortestSubArray_LC209",
+            "mainClass": "LC01_Array.Main",
             "projectName": "Hot-Pot_76128a76"
         },
         {
             "type": "java",
-            "name": "ArraySquare_LC977",
+            "name": "aaa",
             "request": "launch",
-            "mainClass": "LC01_Array.ArraySquare_LC977",
-            "projectName": "Hot-Pot_76128a76"
-        },
-        {
-            "type": "java",
-            "name": "MoveElement_LC27",
-            "request": "launch",
-            "mainClass": "LC01_Array.MoveElement_LC27",
-            "projectName": "Hot-Pot_76128a76"
-        },
-        {
-            "type": "java",
-            "name": "BinarySearch_LC704",
-            "request": "launch",
-            "mainClass": "BinarySearch_LC704",
-            "projectName": "Hot-Pot_76128a76"
-        },
-        {
-            "type": "java",
-            "name": "InnerBinarySearch_LC704",
-            "request": "launch",
-            "mainClass": "InnerBinarySearch_LC704",
-            "projectName": "Hot-Pot_76128a76"
-        },
-        {
-            "type": "java",
-            "name": "Demo1",
-            "request": "launch",
-            "mainClass": "Demo1",
+            "mainClass": "LC01_Array.aaa",
             "projectName": "Hot-Pot_76128a76"
         },
         {

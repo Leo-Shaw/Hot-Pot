@@ -18,6 +18,9 @@ Website: https://leetcode.cn/problems/squares-of-a-sorted-array/description/
 
 // @lc code=start
 class Solution {
+    public static void main(String[] args) {
+        
+    }
     /*
      * 1、输入：递增数组
      * 2、返回：新数组（元素平方）递增排序

@@ -4,5 +4,6 @@
         ".",
         "01_Array\\Code"
     ],
-    "java.project.outputPath": ".class"
+    "java.project.outputPath": ".class",
+    "java.debug.settings.onBuildFailureProceed": true
 }
