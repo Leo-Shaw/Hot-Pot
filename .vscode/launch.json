@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShortestSubArray_LC209",
+            "request": "launch",
+            "mainClass": "LC01_Array.ShortestSubArray_LC209",
+            "projectName": "Hot-Pot_76128a76"
+        },
+        {
+            "type": "java",
             "name": "ArraySquare_LC977",
             "request": "launch",
             "mainClass": "LC01_Array.ArraySquare_LC977",

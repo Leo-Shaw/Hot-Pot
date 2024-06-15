@@ -1,4 +1,12 @@
 package LC01_Array;
+
+/*
+ * @lc app=leetcode.cn id=977 lang=java
+ *
+ * [977] 有序数组的平方
+ */
+
+// @lc code=start
 /**
 * Run Successful Total Time Field
 Website: https://leetcode.cn/problems/squares-of-a-sorted-array/description/
@@ -8,14 +16,14 @@ Website: https://leetcode.cn/problems/squares-of-a-sorted-array/description/
 * 3:  
 * 4:  
 */
-public class ArraySquare_LC977 {
+class Solution {
     /*
      * 1、输入：递增数组
      * 2、返回：新数组（元素平方）递增排序
      * 特点：
      *      两端最大，最大值都在两端
      */
-    public static int[] sortedSquares(int[] nums) {
+    public int[] sortedSquares(int[] nums) {
         int[] res = new int[nums.length];
         int sortedindex = res.length-1; //从最大下表开始放
         int p0=0,p1=res.length-1;
@@ -27,12 +35,6 @@ public class ArraySquare_LC977 {
         }
         return res;
     }
-    
-    public static void main(String[] args) {
-        int[] nums = {-4,-1,0,1,3,10};
-        for (int i : sortedSquares(nums)) {
-            System.out.println(i);
-        }
-    }
-
 }
+// @lc code=end
+

@@ -1,5 +1,12 @@
 package LC01_Array;
 
+/*
+ * @lc app=leetcode.cn id=704 lang=java
+ *
+ * [704] 二分查找
+ */
+
+// @lc code=start
 /**
 * Run Successful Total Time Field
 Website: https://leetcode.cn/problems/binary-search/
@@ -9,8 +16,8 @@ Website: https://leetcode.cn/problems/binary-search/
 * 3:  
 * 4:  
 */
-public class BinarySearch_LC704 {
-    public static int search(int[] nums, int target) {
+class Solution {
+    public int search(int[] nums, int target) {
         int l=0,r=nums.length-1,mid=0;
         while(l<=r){
             mid = l+(r-l)/2;
@@ -25,10 +32,6 @@ public class BinarySearch_LC704 {
         }
         return -1;
     }
-    public static void main(String[] args) {
-        int arr[] = new int[]{-1,0,2,3,5,9,12};
-        int target = 4;
-        System.out.println(search(arr,target));
-    }
-    
 }
+// @lc code=end
+
